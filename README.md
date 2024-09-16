@@ -54,7 +54,7 @@ npx hardhat run scripts/approveDeposit.js --network sepolia
 
 * Still Facinf some Random Errors Feel Free To Ask Me Any doubts By Just Emailing
 ```
-akshaypsandhya@gmail.com
+babyad1324@gmail.com
 ```
 
 ## Authors
@@ -62,7 +62,7 @@ akshaypsandhya@gmail.com
 Contributors names and contact info
 
 
-ex. [@Akshy](amarnath759498@gmail.com)
+ex. [](babyad1324@gmail.com)
 
 
 ## License
